@@ -1,0 +1,45 @@
+{
+   "applinks": {
+      "details": [
+         {
+            "appIDs": [ "C68NF9QMQL.com.meeymap.app.beta"],
+            "paths": [
+               "/tra-cuu-quy-hoach/*",
+               "/tra-cuu-quy-hoach",
+               "/scan-app/*",
+               "/scan-app"
+            ]
+         },
+         {
+            "appIDs": [ "F5ABC534ZN.com.meeymap.app.beta.stg"],
+            "paths": [
+               "/tra-cuu-quy-hoach/*",
+               "/tra-cuu-quy-hoach",
+               "/scan-app/*",
+               "/scan-app"
+            ]
+         },
+         {
+            "appIDs": [ "F5ABC534ZN.com.meeymap.app.beta.dev"],
+            "paths": [
+               "/tra-cuu-quy-hoach/*",
+               "/tra-cuu-quy-hoach",
+               "/scan-app/*",
+               "/scan-app"
+            ]
+         },
+         {
+            "appIDs": [ "F5ABC534ZN.com.meeymap.app.new"],
+            "paths": [
+               "/tra-cuu-quy-hoach/*",
+               "/tra-cuu-quy-hoach",
+               "/scan-app/*",
+               "/scan-app"
+            ]
+         }
+      ]
+   },
+   "webcredentials": {
+      "apps": []
+   }
+ }
